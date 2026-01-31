@@ -1,0 +1,13 @@
+{
+  "name": "zk-merkle-whitelist",
+  "version": "1.0.0",
+  "description": "Merkle Tree verification for Web3 Whitelists",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0",
+    "merkletreejs": "^0.3.11",
+    "keccak256": "^1.0.6"
+  },
+  "devDependencies": {
+    "hardhat": "^2.19.0"
+  }
+}
